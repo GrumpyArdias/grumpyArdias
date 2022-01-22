@@ -15,8 +15,3 @@ Skills: Full Stack Dev | JavaScript | React | HTML5 | CSS3 | Bootstrap | SQL | N
 - 🌱 Actualmente estoy aprendiendo React | SQL
 - 📫 Contacto: info@marioherrero.com
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/GrumpyArdias) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mario-herrero//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mario.fresnel/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](marioherrero.com)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/GrumpyArdias)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/GrumpyArdias)
