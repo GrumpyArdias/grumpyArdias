@@ -1,4 +1,4 @@
-### Hi there 👋, Me llamo Mario
+### Hola!  👋, Me llamo Mario Herrero
 
 #### Soy Full Stack Dev
 
