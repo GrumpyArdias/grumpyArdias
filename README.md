@@ -15,3 +15,4 @@ Skills: Full Stack Dev | JavaScript | React | HTML5 | CSS3 | Bootstrap | SQL | N
 - 🌱 Actualmente estoy aprendiendo React | SQL
 - 📫 Contacto: info@marioherrero.com
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grumpyArdias&repo=github-readme-stats)](https://github.com/grumpyArdias/github-readme-stats)
