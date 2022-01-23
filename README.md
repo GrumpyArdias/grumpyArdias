@@ -2,9 +2,7 @@
 
 #### Soy Full Stack Dev
 
-![Soy Full Stack Dev](https://c.tenor.com/cBmz8RTK_JsAAAAC/typing-anime.gif)
-
-Tengo un trasfondo bastante extenso en diversas áreas tecnológicas. En estos momentos me estoy enfocando más en la programación y desarrollo de software. Es un tema que me apasiona y con el que estoy dándole un giro a mi carrera profesional.
+- 🌱 Actualmente estoy aprendiendo React | SQL
 
 En estos momentos mi mayor interés reside en las tecnologías web, tanto frontend como backend: desarrollo de single-page applications con React, desarrollo en backend con Node, Express, SQL, Docker, etc.
 
@@ -12,7 +10,7 @@ En lo personal, me encantaría trabajar con otros desarrolladores. Dado mi trasf
 
 Skills: Full Stack Dev | JavaScript | React | HTML5 | CSS3 | Bootstrap | SQL | Node.js
 
-- 🌱 Actualmente estoy aprendiendo React | SQL
 - 📫 Contacto: info@marioherrero.com
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grumpyArdias&repo=github-readme-stats)](https://github.com/grumpyArdias/github-readme-stats)
+![Soy Full Stack Dev](https://c.tenor.com/cBmz8RTK_JsAAAAC/typing-anime.gif)
+
