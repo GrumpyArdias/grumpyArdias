@@ -2,7 +2,7 @@
 
 #### Soy Full Stack Dev
 
-- 🌱 Actualmente estoy aprendiendo React | SQL
+- 🌱 Actualmente estoy aprendiendo TypeScript | .NET
 
 En estos momentos mi mayor interés reside en las tecnologías web, tanto frontend como backend: desarrollo de single-page applications con React, desarrollo en backend con Node, Express, SQL, Docker, etc.
 
